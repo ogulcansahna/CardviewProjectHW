@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">CardviewProject</string>
+    <string name="sirket">Miami Car Sales</string>
+    <string name="reklam">Sales of used vehicles with safety.</string>
+
+    <string name="car1_name">Mercedes Benz - CLS 500</string>
+    <string name="car1_aciklama">As you might have guessed the steering is a definite plus – there’s not a colossal amount of actual feel, but the weighting, consistency and general response through the helm is very good indeed. The car itself rides well, has excellent body control and the new turbocharged V8 sure does fly when asked. I’m still not convinced by the latest 7G Tronic gearbox, which makes a meal of manual shifts and is far better left to its own devices, and I have to admit that the whole CLS experience is rather soulless.</string>
+    <string name="car1_ozet">RWD - 402HP - 7 Speed - 5.2s</string>
+    <string name="car1_fiyat">$ 185.000</string>
+
+    <string name="car2_name">BMW - M6 COUPE</string>
+    <string name="car2_aciklama">The 500bhp motorsport-inspired V10 that blessed the BMW M6 more than a decade ago was a true innovation for BMW at the time. Gas-guzzling, naturally aspirated and thoroughly intoxicating, it’s an old-school brute, though in todays modern world of downsizing and turbocharging, it’s almost unheard of. It just so happens that when fitted to the 6-series, it created a monster.</string>
+    <string name="car2_ozet">RWD - 507HP - 7 Speed - 4.6s</string>
+    <string name="car2_fiyat">$ 210.000</string>
+
+    <string name="car3_name">AUDI - S4 SALOON</string>
+    <string name="car3_aciklama">Clever car, this S4. And the more you delve into its various systems, the more mind-boggling it gets. Take ‘Drive Select’, the $2000 must-have option, which provides the means to alter everything from throttle response to damping, from steering sensitivity to gearbox upshift points. Now, some days you really can’t be arsed. Trouble is, with everything in the default ‘auto’ mode, it feels a bit leaden, a touch inert. Fine if you’re happy to cruise, but dull-witted when you suddenly need it to snap to attention for a brisk overtake or slice through a roundabout or two.
+</string>
+    <string name="car3_ozet">4 Wheel Drive - 333HP - 7 Speed - 5.3s</string>
+    <string name="car3_fiyat">$ 180.000</string>
+
 </resources>
+

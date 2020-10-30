@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">30dp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="card_padding">5dp</dimen>
+    <dimen name="test_size">55dp</dimen>
+    <dimen name="text_size">18dp</dimen>
+    <dimen name="fiyatsize">24dp</dimen>
+    <dimen name="baslik">60dp</dimen>
+    <dimen name="baslik1">8dp</dimen>
+    <dimen name="cerceve">15dp</dimen>
+    <dimen name="paddi">5dp</dimen>
+    <dimen name="height">338dp</dimen>
+</resources>
